@@ -1,1 +1,100 @@
-webpackJsonp([6],{308:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,3,"div",[["tappable",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.goTo(l.context.$implicit.id)&&u}return u},null,null)),(l()(),t["ɵeld"](1,0,null,null,0,"img",[["class","iconCat"]],[[8,"src",4]],null,null,null,null)),(l()(),t["ɵeld"](2,0,null,null,0,"br",[],null,null,null,null,null)),(l()(),t["ɵted"](3,null,["",""]))],null,function(l,n){l(n,1,0,"assets/img/"+n.context.$implicit.img);l(n,3,0,n.context.$implicit.label)})}function a(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,21,"ion-header",[],null,null,null,null,null)),t["ɵdid"](1,16384,null,0,k.a,[C.a,t.ElementRef,t.Renderer,[2,h.a]],null,null),(l()(),t["ɵted"](-1,null,["\n\n  "])),(l()(),t["ɵeld"](3,0,null,null,17,"ion-navbar",[["class","toolbar"],["color","dark"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,_.b,_.a)),t["ɵdid"](4,49152,null,0,E.a,[T.a,[2,h.a],[2,y.a],C.a,t.ElementRef,t.Renderer],{color:[0,"color"]},null),(l()(),t["ɵted"](-1,3,["\n      "])),(l()(),t["ɵeld"](6,0,null,0,8,"button",[["icon-only",""],["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,8).toggle()&&u}return u},D.b,D.a)),t["ɵdid"](7,1097728,[[1,4]],0,I.a,[[8,""],C.a,t.ElementRef,t.Renderer],null,null),t["ɵdid"](8,1064960,null,0,N.a,[L.a,[2,h.a],[2,I.a],[2,E.a]],{menuToggle:[0,"menuToggle"]},null),t["ɵdid"](9,16384,null,1,x.a,[C.a,t.ElementRef,t.Renderer,[2,F.a],[2,E.a]],null,null),t["ɵqud"](603979776,1,{_buttons:1}),(l()(),t["ɵted"](-1,0,["\n        "])),(l()(),t["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](13,147456,null,0,V.a,[C.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵted"](-1,0,["\n      "])),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](16,0,null,3,3,"ion-title",[],null,null,null,A.b,A.a)),t["ɵdid"](17,49152,null,0,K.a,[C.a,t.ElementRef,t.Renderer,[2,F.a],[2,E.a]],null,null),(l()(),t["ɵted"](18,0,["",""])),t["ɵpid"](131072,M.a,[O.a,t.ChangeDetectorRef]),(l()(),t["ɵted"](-1,3,["\n  "])),(l()(),t["ɵted"](-1,null,["\n\n"])),(l()(),t["ɵted"](-1,null,["\n\n\n"])),(l()(),t["ɵeld"](23,0,null,null,9,"ion-content",[["class","light-bg"],["padding",""],["scroll","false"]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,P.b,P.a)),t["ɵdid"](24,4374528,null,0,j.a,[C.a,w.a,S.a,t.ElementRef,t.Renderer,T.a,$.a,t.NgZone,[2,h.a],[2,y.a]],null,null),(l()(),t["ɵted"](-1,1,["\n    "])),(l()(),t["ɵted"](-1,1,["\n    "])),(l()(),t["ɵeld"](27,0,null,1,4,"div",[["class","cat1"]],null,null,null,null,null)),(l()(),t["ɵted"](-1,null,["\n    "])),(l()(),t["ɵand"](16777216,null,null,1,null,u)),t["ɵdid"](30,802816,null,0,z.NgForOf,[t.ViewContainerRef,t.TemplateRef,t.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),t["ɵted"](-1,null,["\n\t"])),(l()(),t["ɵted"](-1,1,["\n"])),(l()(),t["ɵted"](-1,null,["\n\n\n"]))],function(l,n){var e=n.component;l(n,4,0,"dark");l(n,8,0,"");l(n,13,0,"menu");l(n,30,0,e.CAT_LIST)},function(l,n){l(n,3,0,t["ɵnov"](n,4)._hidden,t["ɵnov"](n,4)._sbPadding);l(n,6,0,t["ɵnov"](n,8).isHidden);l(n,12,0,t["ɵnov"](n,13)._hidden);l(n,18,0,t["ɵunv"](n,18,0,t["ɵnov"](n,19).transform("CAT_TITLE")));l(n,23,0,t["ɵnov"](n,24).statusbarPadding,t["ɵnov"](n,24)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var t=e(0),d=(e(2),e(58)),o=(e(85),e(237),e(239)),i=function(){function l(l,n,e){this.navCtrl=l,this.navParams=n,this.trad=e,this.CAT_LIST=e.CAT_LIST}return l.prototype.goTo=function(l){this.navCtrl.setRoot(o.c,{catId:l},{animate:!0,direction:"forward"})},l}(),r=function(){return function(){}}(),s=e(227),c=e(228),b=e(229),f=e(230),m=e(231),g=e(232),p=e(233),v=e(234),R=e(235),k=e(87),C=e(1),h=e(5),_=e(315),E=e(35),T=e(9),y=e(21),D=e(44),I=e(20),N=e(145),L=e(23),x=e(143),F=e(36),V=e(40),A=e(238),K=e(63),M=e(88),O=e(27),P=e(236),j=e(22),w=e(4),S=e(10),$=e(25),z=e(11),B=e(12),q=e(140),H=t["ɵcrt"]({encapsulation:2,styles:[],data:{}}),J=t["ɵccf"]("page-cat",i,function(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"page-cat",[],null,null,null,a,H)),t["ɵdid"](1,49152,null,0,i,[y.a,B.a,q.a],null,null)],null,null)},{},{},[]),Z=e(18),G=e(59),Q=e(60),U=e(62),W=e(61),X=e(86),Y=e(139),ll=e(41);e.d(n,"CatPageModuleNgFactory",function(){return nl});var nl=t["ɵcmf"](r,[],function(l){return t["ɵmod"]([t["ɵmpd"](512,t.ComponentFactoryResolver,t["ɵCodegenComponentFactoryResolver"],[[8,[s.a,c.a,b.a,f.a,m.a,g.a,p.a,v.a,R.a,J]],[3,t.ComponentFactoryResolver],t.NgModuleRef]),t["ɵmpd"](4608,z.NgLocalization,z.NgLocaleLocalization,[t.LOCALE_ID,[2,z["ɵa"]]]),t["ɵmpd"](4608,Z.k,Z.k,[]),t["ɵmpd"](4608,Z.c,Z.c,[]),t["ɵmpd"](4608,G.b,G.a,[]),t["ɵmpd"](4608,Q.a,Q.b,[]),t["ɵmpd"](4608,U.b,U.a,[]),t["ɵmpd"](4608,W.b,W.a,[]),t["ɵmpd"](4608,O.a,O.a,[X.a,G.b,Q.a,U.b,W.b,O.b,O.c]),t["ɵmpd"](512,z.CommonModule,z.CommonModule,[]),t["ɵmpd"](512,Z.j,Z.j,[]),t["ɵmpd"](512,Z.d,Z.d,[]),t["ɵmpd"](512,Z.i,Z.i,[]),t["ɵmpd"](512,Y.a,Y.a,[]),t["ɵmpd"](512,Y.b,Y.b,[]),t["ɵmpd"](512,d.a,d.a,[]),t["ɵmpd"](512,r,r,[]),t["ɵmpd"](256,ll.a,i,[]),t["ɵmpd"](256,O.c,void 0,[]),t["ɵmpd"](256,O.b,void 0,[])])})},315:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),a["ɵdid"](1,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},d.b,d.a)),a["ɵdid"](3,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](4,1097728,null,0,o.a,[[8,"bar-button"],i.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](6,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](7,147456,null,0,r.a,[i.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),a["ɵdid"](9,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵted"](10,null,["",""])),a["ɵncd"](null,0),a["ɵncd"](null,1),a["ɵncd"](null,2),(l()(),a["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),a["ɵdid"](15,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,a["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var a=e(0),t=e(11),d=e(44),o=e(20),i=e(1),r=e(40),s=(e(5),e(21),a["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([6],{
+
+/***/ 345:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CatPageModule", function() { return CatPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ngx_translate_core__ = __webpack_require__(59);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(44);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__cat__ = __webpack_require__(352);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+var CatPageModule = (function () {
+    function CatPageModule() {
+    }
+    CatPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_3__cat__["a" /* CatPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["f" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_3__cat__["a" /* CatPage */]),
+                __WEBPACK_IMPORTED_MODULE_1__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], CatPageModule);
+    return CatPageModule;
+}());
+
+//# sourceMappingURL=cat.module.js.map
+
+/***/ }),
+
+/***/ 352:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CatPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(44);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_providers__ = __webpack_require__(228);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__pages_pages__ = __webpack_require__(229);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+/**
+ * Generated class for the CatPage page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var CatPage = (function () {
+    function CatPage(navCtrl, navParams, trad) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.trad = trad;
+        this.CAT_LIST = trad.CAT_LIST;
+    }
+    CatPage.prototype.goTo = function (id) {
+        //console.log(id);
+        this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_3__pages_pages__["c" /* WelcomePage */], { "catId": id }, {
+            animate: true,
+            direction: 'forward'
+        });
+    };
+    CatPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-cat',template:/*ion-inline-start:"/Users/damien/app/JTP/src/pages/cat/cat.html"*/'<ion-header>\n\n  <ion-navbar color="dark">\n      <button ion-button icon-only menuToggle>\n        <ion-icon name="menu"></ion-icon>\n      </button>\n    <ion-title>{{ \'CAT_TITLE\' | translate }}</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding scroll="false" class="light-bg">\n    <!-- <div ng-repeat="cat in ::data.catList track by $index"  ng-click="go(4+$index)" ng-hide="$index===2 && !data.displayTrash"><img class="iconCat" ng-src="main/assets/images/{{cat.img}}"><br/>{{cat.label}}</div> -->\n    <div class="cat1">\n    <div *ngFor="let cat of CAT_LIST" tappable (click)="goTo(cat.id)"><img class="iconCat" [src]="\'assets/img/\'+cat.img" /><br/>{{cat.label}}</div>\n	</div>\n</ion-content>\n\n\n'/*ion-inline-end:"/Users/damien/app/JTP/src/pages/cat/cat.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavParams */], __WEBPACK_IMPORTED_MODULE_2__providers_providers__["g" /* Trad */]])
+    ], CatPage);
+    return CatPage;
+}());
+
+//# sourceMappingURL=cat.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=6.js.map
